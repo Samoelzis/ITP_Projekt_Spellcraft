@@ -6,7 +6,6 @@ import VIEW.MORE.Button;
 import javax.swing.*;
 
 public class MainMenu extends JFrame {
-////
 
     public MainMenu() {
         // Erstelle das Hauptfenster

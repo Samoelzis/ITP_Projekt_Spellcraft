@@ -9,7 +9,7 @@ public class MainMenu extends JFrame {
 
     public MainMenu() {
         // Erstelle das Hauptfenster
-        setTitle("SPELLCRAFT");
+        setTitle("SPELLCRAFT");//djsjfjfjajetztr
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 600);
         setLayout(null);

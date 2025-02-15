@@ -9,7 +9,7 @@ public class MainMenu extends JFrame {
 
     public MainMenu() {
         // Erstelle das Hauptfenster
-        setTitle("Minecraft Main Menu");
+        setTitle("SPELLCRAFT");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 600);
         setLayout(null);
@@ -22,8 +22,8 @@ public class MainMenu extends JFrame {
 
         // Buttons hinzufügen
         Button buttonFactory = new Button();
-        JButton button1 = buttonFactory.createButton("Singleplayer");
-        JButton button2 = buttonFactory.createButton("Multiplayer");
+        JButton button1 = buttonFactory.createButton("Play");
+        JButton button2 = buttonFactory.createButton("Stats");
         JButton button3 = buttonFactory.createButton("Options");
 
         // Buttons zum Hintergrund hinzufügen
